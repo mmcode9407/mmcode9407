@@ -2,9 +2,9 @@
 
 ## 🙍 &nbsp; About me
 
-I'm Mechanical Engineer MEng and since July 2022 also a junior frontend developer who loves to code 😄. I know I still have a long way to go, but I'm working very hard and I'm very happy about it.
+I'm Mechanical Engineer MEng and since July 2022 also a junior frontend developer who loves to code 😄. I know I still have a long way to go, but I'm working very hard and I'm very excited about it.
 - 🔭 I'm currently working on **developing my skills**
-- 🤓 I'm taking part in [individual front-end development](https://devmentor.pl/) course that is going  to help me improve my skills
+- 🤓 I'm taking part in [individual front-end development](https://devmentor.pl/) course which helps me improve my skills
 - 🌱 I’m currently learning **React**
 - 🤝 I'm open to collaborating in any projects
 
