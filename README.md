@@ -1,12 +1,33 @@
 # Welcome 👋, I'm Mateusz.
 
-## 🙍‍♂️ &nbsp; About me
+## 👨‍💻 &nbsp; About me
 
 I'm Mechanical Engineer (MEng) and since July 2022 also been a junior front-end developer who loves to code 😄. I know I still have a long way to go, but I'm working very hard and I'm very excited about it.
 - 🔭 I'm currently working on **developing my skills**
 - 🤓 I'm taking part in [individual front-end development](https://devmentor.pl/) course which helps me improve my skills
 - 🌱 I’m currently learning **React**
 - 🤝 I'm open to collaborating on any projects
+- 💖 In addition to programming, I love to run 🏃‍♂️ and ride a bike 🚴‍♂️. In winter, I go snowboarding 🏂.
+
+I'd describe myself as
+
+✔️ Quick-learner 🚀
+
+✔️ Hardworking 💪
+
+✔️ Ambitious 🏆
+
+✔️ Motivated ✌️
+
+✔️ Communicative 🔊
+
+✔️ Team player 🤜🤛
+
+✔️ Loyal 🦮
+
+✔️ Reliable 🤝
+
+✔️ Honest 🧠
 
 ## 🛠 &nbsp; Tech Stack
 
